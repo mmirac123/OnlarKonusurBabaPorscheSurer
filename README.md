@@ -1,2 +1,3 @@
 # OnlarKonusurBabaPorscheSurer
-İlk Dosya
+İlk Dosya\
+![örnek](thumbs-up-emoji.png)
